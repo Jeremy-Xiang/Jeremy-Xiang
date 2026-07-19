@@ -48,19 +48,14 @@
 
 <div align="center">
 
+<img height="165" src="https://git-stats-one-sooty.vercel.app/api?username=Jeremy-Xiang&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=0b0d12&title_color=6e8fff&text_color=c8cbe0&icon_color=6e8fff" alt="github stats" />
+<img height="165" src="https://git-stats-one-sooty.vercel.app/api/top-langs/?username=Jeremy-Xiang&layout=compact&hide_border=true&langs_count=8&hide=html,css&bg_color=0b0d12&title_color=6e8fff&text_color=c8cbe0" alt="top languages" />
+
 <img src="https://raw.githubusercontent.com/Jeremy-Xiang/Jeremy-Xiang/output/github-snake-dark.svg" alt="a snake eating my contribution graph" />
 
 <img src="https://streak-stats.demolab.com/?user=Jeremy-Xiang&hide_border=true&background=0b0d12&stroke=1c2233&ring=6e8fff&fire=6e8fff&currStreakLabel=6e8fff&sideLabels=c8cbe0&currStreakNum=e8eaf0&sideNums=e8eaf0&dates=8a8fa8&titleColor=6e8fff" alt="contribution streak" />
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jeremy-Xiang&hide_border=true&bg_color=0b0d12&color=e8eaf0&line=6e8fff&point=ffffff&title_color=6e8fff&area=true&custom_title=contribution%20graph" alt="contribution graph" />
-
-<!-- Self-hosted stats card + top languages. The public github-readme-stats instance
-     is chronically rate-limited (503s), so run your own — see .github/workflows/snake.yml's
-     sibling note in the README setup. Swap YOUR-INSTANCE for your Vercel host, then uncomment.
-
-<img height="165" src="https://YOUR-INSTANCE.vercel.app/api?username=Jeremy-Xiang&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=0b0d12&title_color=6e8fff&text_color=c8cbe0&icon_color=6e8fff" alt="github stats" />
-<img height="165" src="https://YOUR-INSTANCE.vercel.app/api/top-langs/?username=Jeremy-Xiang&layout=compact&hide_border=true&langs_count=8&bg_color=0b0d12&title_color=6e8fff&text_color=c8cbe0" alt="top languages" />
--->
 
 </div>
 
